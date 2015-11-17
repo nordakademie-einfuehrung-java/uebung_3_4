@@ -20,7 +20,7 @@ public class Binominialkoeffizient {
 		
 		double ergebnis = nfak / (kfak*nkfak);
 		
-		System.out.println("Der Binomialkoeffizient für n = " + n + " und für k = " + k + " ist " + ergebnis + ".");
+		System.out.println("Der Binomialkoeffizient fÃ¼r n = " + n + " und fÃ¼r k = " + k + " ist " + ergebnis + ".");
 		
 	}
 
